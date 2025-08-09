@@ -1,0 +1,2 @@
+node_modules/      # dependencies folder (usually very big)
+.env               # environment variables (secret keys)
